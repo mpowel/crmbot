@@ -28,12 +28,12 @@ end
 
 Dir["./models/*.rb"].each {|file| require file }
 
-Dir["./helpers/*.rb"].each {|file| require file }
+# Dir["./helpers/*.rb"].each {|file| require file }
 
 
-helpers Sinatra::DateTimeHelper
-helpers Sinatra::OfficeHoursHelper
-helpers Sinatra::CommandsHelper
+# helpers Sinatra::DateTimeHelper
+# helpers Sinatra::OfficeHoursHelper
+# helpers Sinatra::CommandsHelper
 
 
 # enable sessions for this project
