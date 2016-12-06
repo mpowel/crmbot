@@ -10,18 +10,25 @@ Sadly, however, at the moment he's only able to take down your contact's name, p
 
 
 #Alfred's Email Training Guides 
-##aka Slack <> Gmail API Tutorials
+###aka Slack <> Gmail API Tutorials
 Training Alfred will take some time. Here is some of the content we'll be covering with him. Do have patience, soon he will be in tip top shape and up to speed.
 LINKS COMING SOON
 
 #Alfred's Commands
-![commands](dataschema.png)
-commands.png
-completeworkflow.png
-dataschema.png
-mvpworkflow.png
-prioritymatrix.png
-sampleinteraction.png
+How to talk so Alfred will listen, and listen so Alfred will talk:
+![commands](commands.png)
+
+
+![sampleinteraction](sampleinteraction.png)
+###aka v1.0 Data Schema
+![dataschema](dataschema.png)
+
+#CRM Bot Workflows
+![workflow](completeworkflow.png)
+![mvpworkflow](mvpworkflow.png)
+
+![prioritymatrix](prioritymatrix.png)
+
  
 
 
