@@ -1,1 +1,0 @@
-CourseLink.destroy_all
