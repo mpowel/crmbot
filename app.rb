@@ -23,8 +23,8 @@ end
 # require any models 
 # you add to the folder
 # using the following syntax:
-# require_relative './models/<model_name>'
-# require_relative './models/team'
+require_relative './models/contact'
+require_relative './models/team'
 
 Dir["./models/*.rb"].each {|file| require file }
 

@@ -8,6 +8,9 @@ Sadly, however, at the moment he's only able to take down your contact's name, p
 ![alfred-pennyworth](http://vignette2.wikia.nocookie.net/batman/images/2/24/Alfred_Pennyworth.png)
 [Image Source](http://vignette2.wikia.nocookie.net/batman/images/2/24/Alfred_Pennyworth.png)
 
+**Alfred Pennyworth's Training Schedule**
+![prioritymatrix](prioritymatrix.png)
+
 
 #Alfred's Email Training Guides 
 ###aka Slack <> Gmail API Tutorials
@@ -26,8 +29,6 @@ How to talk so Alfred will listen, and listen so Alfred will talk:
 #CRM Bot Workflows
 ![workflow](completeworkflow.png)
 ![mvpworkflow](mvpworkflow.png)
-
-![prioritymatrix](prioritymatrix.png)
 
  
 
