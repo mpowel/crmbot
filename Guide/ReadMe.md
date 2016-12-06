@@ -15,7 +15,7 @@ Training Alfred will take some time. Here is some of the content we'll be coveri
 LINKS COMING SOON
 
 #Alfred's Commands
-![commands](https://github.com/mpowel/crmbot/blob/master/images/dataschema.png)
+![commands](dataschema.png)
 commands.png
 completeworkflow.png
 dataschema.png
