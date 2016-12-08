@@ -1,0 +1,1 @@
+Team.destroy_all
